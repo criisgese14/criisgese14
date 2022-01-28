@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;Acerca de mi
 
-💡 &nbsp;Me gusta programar y seguir aprendiendo, es lo que realmente me apaciona.\
+💡 &nbsp;Me gusta programar y seguir aprendiendo, es lo que realmente me apasiona.\
 🎓 &nbsp;Estudié desarrollo web full stack en el bootcamp de Henry.\
 ✍️ &nbsp;En mis tiempos libres si no estoy investigando otras tecnologias veo películas o juego videojuegos.\
 ✉️ &nbsp;Puedes mandarme un email a cristiangsosa15@gmail.com! Siempre trataré de responder rápido.\
